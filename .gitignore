@@ -1,0 +1,14 @@
+# Ignore compiled C++ files
+*.exe
+*.o
+*.obj
+*.out
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
