@@ -6,6 +6,8 @@
 
 # VS Code
 .vscode/
+# Ignore temporary Code Runner files
+tempCodeRunnerFile.cpp
 
 # Windows
 Thumbs.db
