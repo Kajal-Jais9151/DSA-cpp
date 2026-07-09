@@ -12,8 +12,6 @@ int longestsubsum(vector<int>& arr, int k){
                  mm=j-i+1;
                 maxi=max(maxi,mm);
             }
-            
-        }
     }
     return mm;
 }
